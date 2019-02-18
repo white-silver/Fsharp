@@ -1,0 +1,10 @@
+/Users/Ryota/Documents/Fsharp/function_as_blocks/bin/Debug/netcoreapp2.1/function_as_blocks.deps.json
+/Users/Ryota/Documents/Fsharp/function_as_blocks/bin/Debug/netcoreapp2.1/function_as_blocks.runtimeconfig.json
+/Users/Ryota/Documents/Fsharp/function_as_blocks/bin/Debug/netcoreapp2.1/function_as_blocks.runtimeconfig.dev.json
+/Users/Ryota/Documents/Fsharp/function_as_blocks/bin/Debug/netcoreapp2.1/function_as_blocks.dll
+/Users/Ryota/Documents/Fsharp/function_as_blocks/bin/Debug/netcoreapp2.1/function_as_blocks.pdb
+/Users/Ryota/Documents/Fsharp/function_as_blocks/obj/Debug/netcoreapp2.1/function_as_blocks.fsprojAssemblyReference.cache
+/Users/Ryota/Documents/Fsharp/function_as_blocks/obj/Debug/netcoreapp2.1/function_as_blocks.AssemblyInfoInputs.cache
+/Users/Ryota/Documents/Fsharp/function_as_blocks/obj/Debug/netcoreapp2.1/function_as_blocks.AssemblyInfo.fs
+/Users/Ryota/Documents/Fsharp/function_as_blocks/obj/Debug/netcoreapp2.1/function_as_blocks.dll
+/Users/Ryota/Documents/Fsharp/function_as_blocks/obj/Debug/netcoreapp2.1/function_as_blocks.pdb

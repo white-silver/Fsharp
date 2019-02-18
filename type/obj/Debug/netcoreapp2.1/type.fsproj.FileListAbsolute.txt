@@ -1,0 +1,10 @@
+/Users/Ryota/Documents/Fsharp/type/bin/Debug/netcoreapp2.1/type.deps.json
+/Users/Ryota/Documents/Fsharp/type/bin/Debug/netcoreapp2.1/type.runtimeconfig.json
+/Users/Ryota/Documents/Fsharp/type/bin/Debug/netcoreapp2.1/type.runtimeconfig.dev.json
+/Users/Ryota/Documents/Fsharp/type/bin/Debug/netcoreapp2.1/type.dll
+/Users/Ryota/Documents/Fsharp/type/bin/Debug/netcoreapp2.1/type.pdb
+/Users/Ryota/Documents/Fsharp/type/obj/Debug/netcoreapp2.1/type.fsprojAssemblyReference.cache
+/Users/Ryota/Documents/Fsharp/type/obj/Debug/netcoreapp2.1/type.AssemblyInfoInputs.cache
+/Users/Ryota/Documents/Fsharp/type/obj/Debug/netcoreapp2.1/type.AssemblyInfo.fs
+/Users/Ryota/Documents/Fsharp/type/obj/Debug/netcoreapp2.1/type.dll
+/Users/Ryota/Documents/Fsharp/type/obj/Debug/netcoreapp2.1/type.pdb

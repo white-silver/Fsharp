@@ -1,0 +1,10 @@
+/Users/Ryota/Documents/Fsharp/fetchURL/bin/Debug/netcoreapp2.1/fetchURL.deps.json
+/Users/Ryota/Documents/Fsharp/fetchURL/bin/Debug/netcoreapp2.1/fetchURL.runtimeconfig.json
+/Users/Ryota/Documents/Fsharp/fetchURL/bin/Debug/netcoreapp2.1/fetchURL.runtimeconfig.dev.json
+/Users/Ryota/Documents/Fsharp/fetchURL/bin/Debug/netcoreapp2.1/fetchURL.dll
+/Users/Ryota/Documents/Fsharp/fetchURL/bin/Debug/netcoreapp2.1/fetchURL.pdb
+/Users/Ryota/Documents/Fsharp/fetchURL/obj/Debug/netcoreapp2.1/fetchURL.fsprojAssemblyReference.cache
+/Users/Ryota/Documents/Fsharp/fetchURL/obj/Debug/netcoreapp2.1/fetchURL.AssemblyInfoInputs.cache
+/Users/Ryota/Documents/Fsharp/fetchURL/obj/Debug/netcoreapp2.1/fetchURL.AssemblyInfo.fs
+/Users/Ryota/Documents/Fsharp/fetchURL/obj/Debug/netcoreapp2.1/fetchURL.dll
+/Users/Ryota/Documents/Fsharp/fetchURL/obj/Debug/netcoreapp2.1/fetchURL.pdb

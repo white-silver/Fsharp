@@ -1,0 +1,10 @@
+/Users/Ryota/Documents/Fsharp/keyConcepts/bin/Debug/netcoreapp2.1/keyConcepts.deps.json
+/Users/Ryota/Documents/Fsharp/keyConcepts/bin/Debug/netcoreapp2.1/keyConcepts.runtimeconfig.json
+/Users/Ryota/Documents/Fsharp/keyConcepts/bin/Debug/netcoreapp2.1/keyConcepts.runtimeconfig.dev.json
+/Users/Ryota/Documents/Fsharp/keyConcepts/bin/Debug/netcoreapp2.1/keyConcepts.dll
+/Users/Ryota/Documents/Fsharp/keyConcepts/bin/Debug/netcoreapp2.1/keyConcepts.pdb
+/Users/Ryota/Documents/Fsharp/keyConcepts/obj/Debug/netcoreapp2.1/keyConcepts.fsprojAssemblyReference.cache
+/Users/Ryota/Documents/Fsharp/keyConcepts/obj/Debug/netcoreapp2.1/keyConcepts.AssemblyInfoInputs.cache
+/Users/Ryota/Documents/Fsharp/keyConcepts/obj/Debug/netcoreapp2.1/keyConcepts.AssemblyInfo.fs
+/Users/Ryota/Documents/Fsharp/keyConcepts/obj/Debug/netcoreapp2.1/keyConcepts.dll
+/Users/Ryota/Documents/Fsharp/keyConcepts/obj/Debug/netcoreapp2.1/keyConcepts.pdb

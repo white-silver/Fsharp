@@ -1,0 +1,10 @@
+/Users/Ryota/Documents/Fsharp/quicksort/obj/Debug/netcoreapp2.1/quicksort.fsprojAssemblyReference.cache
+/Users/Ryota/Documents/Fsharp/quicksort/obj/Debug/netcoreapp2.1/quicksort.AssemblyInfoInputs.cache
+/Users/Ryota/Documents/Fsharp/quicksort/obj/Debug/netcoreapp2.1/quicksort.AssemblyInfo.fs
+/Users/Ryota/Documents/Fsharp/quicksort/bin/Debug/netcoreapp2.1/quicksort.deps.json
+/Users/Ryota/Documents/Fsharp/quicksort/bin/Debug/netcoreapp2.1/quicksort.runtimeconfig.json
+/Users/Ryota/Documents/Fsharp/quicksort/bin/Debug/netcoreapp2.1/quicksort.runtimeconfig.dev.json
+/Users/Ryota/Documents/Fsharp/quicksort/bin/Debug/netcoreapp2.1/quicksort.dll
+/Users/Ryota/Documents/Fsharp/quicksort/bin/Debug/netcoreapp2.1/quicksort.pdb
+/Users/Ryota/Documents/Fsharp/quicksort/obj/Debug/netcoreapp2.1/quicksort.dll
+/Users/Ryota/Documents/Fsharp/quicksort/obj/Debug/netcoreapp2.1/quicksort.pdb

@@ -1,0 +1,10 @@
+/Users/Ryota/Documents/Fsharp/fib/bin/Debug/netcoreapp2.1/fib.deps.json
+/Users/Ryota/Documents/Fsharp/fib/bin/Debug/netcoreapp2.1/fib.runtimeconfig.json
+/Users/Ryota/Documents/Fsharp/fib/bin/Debug/netcoreapp2.1/fib.runtimeconfig.dev.json
+/Users/Ryota/Documents/Fsharp/fib/bin/Debug/netcoreapp2.1/fib.dll
+/Users/Ryota/Documents/Fsharp/fib/bin/Debug/netcoreapp2.1/fib.pdb
+/Users/Ryota/Documents/Fsharp/fib/obj/Debug/netcoreapp2.1/fib.fsprojAssemblyReference.cache
+/Users/Ryota/Documents/Fsharp/fib/obj/Debug/netcoreapp2.1/fib.AssemblyInfoInputs.cache
+/Users/Ryota/Documents/Fsharp/fib/obj/Debug/netcoreapp2.1/fib.AssemblyInfo.fs
+/Users/Ryota/Documents/Fsharp/fib/obj/Debug/netcoreapp2.1/fib.dll
+/Users/Ryota/Documents/Fsharp/fib/obj/Debug/netcoreapp2.1/fib.pdb

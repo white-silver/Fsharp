@@ -1,0 +1,10 @@
+/Users/Ryota/Documents/Fsharp/marble/bin/Debug/netcoreapp2.1/marble.deps.json
+/Users/Ryota/Documents/Fsharp/marble/bin/Debug/netcoreapp2.1/marble.runtimeconfig.json
+/Users/Ryota/Documents/Fsharp/marble/bin/Debug/netcoreapp2.1/marble.runtimeconfig.dev.json
+/Users/Ryota/Documents/Fsharp/marble/bin/Debug/netcoreapp2.1/marble.dll
+/Users/Ryota/Documents/Fsharp/marble/bin/Debug/netcoreapp2.1/marble.pdb
+/Users/Ryota/Documents/Fsharp/marble/obj/Debug/netcoreapp2.1/marble.fsprojAssemblyReference.cache
+/Users/Ryota/Documents/Fsharp/marble/obj/Debug/netcoreapp2.1/marble.AssemblyInfoInputs.cache
+/Users/Ryota/Documents/Fsharp/marble/obj/Debug/netcoreapp2.1/marble.AssemblyInfo.fs
+/Users/Ryota/Documents/Fsharp/marble/obj/Debug/netcoreapp2.1/marble.dll
+/Users/Ryota/Documents/Fsharp/marble/obj/Debug/netcoreapp2.1/marble.pdb

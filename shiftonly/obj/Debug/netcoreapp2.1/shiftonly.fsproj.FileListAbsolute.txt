@@ -1,0 +1,10 @@
+/Users/Ryota/Documents/Fsharp/shiftonly/bin/Debug/netcoreapp2.1/shiftonly.deps.json
+/Users/Ryota/Documents/Fsharp/shiftonly/bin/Debug/netcoreapp2.1/shiftonly.runtimeconfig.json
+/Users/Ryota/Documents/Fsharp/shiftonly/bin/Debug/netcoreapp2.1/shiftonly.runtimeconfig.dev.json
+/Users/Ryota/Documents/Fsharp/shiftonly/bin/Debug/netcoreapp2.1/shiftonly.dll
+/Users/Ryota/Documents/Fsharp/shiftonly/bin/Debug/netcoreapp2.1/shiftonly.pdb
+/Users/Ryota/Documents/Fsharp/shiftonly/obj/Debug/netcoreapp2.1/shiftonly.fsprojAssemblyReference.cache
+/Users/Ryota/Documents/Fsharp/shiftonly/obj/Debug/netcoreapp2.1/shiftonly.AssemblyInfoInputs.cache
+/Users/Ryota/Documents/Fsharp/shiftonly/obj/Debug/netcoreapp2.1/shiftonly.AssemblyInfo.fs
+/Users/Ryota/Documents/Fsharp/shiftonly/obj/Debug/netcoreapp2.1/shiftonly.dll
+/Users/Ryota/Documents/Fsharp/shiftonly/obj/Debug/netcoreapp2.1/shiftonly.pdb

@@ -1,0 +1,10 @@
+/Users/Ryota/Documents/Fsharp/boilerplate/bin/Debug/netcoreapp2.1/boilerplate.deps.json
+/Users/Ryota/Documents/Fsharp/boilerplate/bin/Debug/netcoreapp2.1/boilerplate.runtimeconfig.json
+/Users/Ryota/Documents/Fsharp/boilerplate/bin/Debug/netcoreapp2.1/boilerplate.runtimeconfig.dev.json
+/Users/Ryota/Documents/Fsharp/boilerplate/bin/Debug/netcoreapp2.1/boilerplate.dll
+/Users/Ryota/Documents/Fsharp/boilerplate/bin/Debug/netcoreapp2.1/boilerplate.pdb
+/Users/Ryota/Documents/Fsharp/boilerplate/obj/Debug/netcoreapp2.1/boilerplate.fsprojAssemblyReference.cache
+/Users/Ryota/Documents/Fsharp/boilerplate/obj/Debug/netcoreapp2.1/boilerplate.AssemblyInfoInputs.cache
+/Users/Ryota/Documents/Fsharp/boilerplate/obj/Debug/netcoreapp2.1/boilerplate.AssemblyInfo.fs
+/Users/Ryota/Documents/Fsharp/boilerplate/obj/Debug/netcoreapp2.1/boilerplate.dll
+/Users/Ryota/Documents/Fsharp/boilerplate/obj/Debug/netcoreapp2.1/boilerplate.pdb

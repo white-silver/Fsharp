@@ -1,0 +1,10 @@
+/Users/Ryota/Documents/Fsharp/syntax/bin/Debug/netcoreapp2.1/syntax.deps.json
+/Users/Ryota/Documents/Fsharp/syntax/bin/Debug/netcoreapp2.1/syntax.runtimeconfig.json
+/Users/Ryota/Documents/Fsharp/syntax/bin/Debug/netcoreapp2.1/syntax.runtimeconfig.dev.json
+/Users/Ryota/Documents/Fsharp/syntax/bin/Debug/netcoreapp2.1/syntax.dll
+/Users/Ryota/Documents/Fsharp/syntax/bin/Debug/netcoreapp2.1/syntax.pdb
+/Users/Ryota/Documents/Fsharp/syntax/obj/Debug/netcoreapp2.1/syntax.fsprojAssemblyReference.cache
+/Users/Ryota/Documents/Fsharp/syntax/obj/Debug/netcoreapp2.1/syntax.AssemblyInfoInputs.cache
+/Users/Ryota/Documents/Fsharp/syntax/obj/Debug/netcoreapp2.1/syntax.AssemblyInfo.fs
+/Users/Ryota/Documents/Fsharp/syntax/obj/Debug/netcoreapp2.1/syntax.dll
+/Users/Ryota/Documents/Fsharp/syntax/obj/Debug/netcoreapp2.1/syntax.pdb
