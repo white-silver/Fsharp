@@ -1,0 +1,10 @@
+/Users/Ryota/Documents/brainfuck/bf_interpreter/obj/Debug/netcoreapp2.1/bf_interpreter.fsprojAssemblyReference.cache
+/Users/Ryota/Documents/brainfuck/bf_interpreter/obj/Debug/netcoreapp2.1/bf_interpreter.AssemblyInfoInputs.cache
+/Users/Ryota/Documents/brainfuck/bf_interpreter/obj/Debug/netcoreapp2.1/bf_interpreter.AssemblyInfo.fs
+/Users/Ryota/Documents/brainfuck/bf_interpreter/bin/Debug/netcoreapp2.1/bf_interpreter.deps.json
+/Users/Ryota/Documents/brainfuck/bf_interpreter/bin/Debug/netcoreapp2.1/bf_interpreter.runtimeconfig.json
+/Users/Ryota/Documents/brainfuck/bf_interpreter/bin/Debug/netcoreapp2.1/bf_interpreter.runtimeconfig.dev.json
+/Users/Ryota/Documents/brainfuck/bf_interpreter/bin/Debug/netcoreapp2.1/bf_interpreter.dll
+/Users/Ryota/Documents/brainfuck/bf_interpreter/bin/Debug/netcoreapp2.1/bf_interpreter.pdb
+/Users/Ryota/Documents/brainfuck/bf_interpreter/obj/Debug/netcoreapp2.1/bf_interpreter.dll
+/Users/Ryota/Documents/brainfuck/bf_interpreter/obj/Debug/netcoreapp2.1/bf_interpreter.pdb
